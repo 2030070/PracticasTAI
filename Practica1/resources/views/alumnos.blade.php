@@ -22,10 +22,10 @@
       <table class="min-w-full divide-y divide-gray-200 border-2 border-blue-900">
         <thead>
           <tr>
-            <th scope="col" class="px-6 py-3 bg-gray-50 text-left text-purple-800 text-lg font-medium text-gray-500 uppercase tracking-wider border-b-2 border-blue-900">ID</th>
-            <th scope="col" class="px-6 py-3 bg-gray-50 text-left text-purple-800 text-lg font-medium text-gray-500 uppercase tracking-wider border-b-2 border-blue-900">Nombre</th>
-            <th scope="col" class="px-6 py-3 bg-gray-50 text-left text-purple-800 text-lg font-medium text-gray-500 uppercase tracking-wider border-b-2 border-blue-900">Edad</th>
-            <th scope="col" class="px-6 py-3 bg-gray-50 text-left text-purple-800 text-lg font-medium text-gray-500 uppercase tracking-wider border-b-2 border-blue-900">Grado</th>
+            <th scope="col" class="px-6 py-3 bg-gray-50 text-left text-lg font-medium text-gray-500 uppercase tracking-wider border-b-2 border-blue-900">ID</th>
+            <th scope="col" class="px-6 py-3 bg-gray-50 text-left text-lg font-medium text-gray-500 uppercase tracking-wider border-b-2 border-blue-900">Nombre</th>
+            <th scope="col" class="px-6 py-3 bg-gray-50 text-left text-lg font-medium text-gray-500 uppercase tracking-wider border-b-2 border-blue-900">Edad</th>
+            <th scope="col" class="px-6 py-3 bg-gray-50 text-left text-lg font-medium text-gray-500 uppercase tracking-wider border-b-2 border-blue-900">Grado</th>
           </tr>
         </thead>
         <tbody class="bg-white divide-y divide-gray-200">
