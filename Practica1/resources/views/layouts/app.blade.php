@@ -20,7 +20,7 @@
         <div class="min-h-full">
             {{-- seccion del menu de opciones --}}
             <nav class="bg-gray-800">
-              <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+              <div class="mx-auto max-w-7xl py-3">
                 <div class="flex h-16 items-center justify-between">
                   <div class="container mx auto flex justify-between items-center">
                     <div class="flex-shrink-0">
@@ -53,7 +53,7 @@
                         <div>
                           <button type="button" class="flex max-w-xs items-center rounded-full bg-gray-800 text-sm focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800" id="user-menu-button" aria-expanded="false" aria-haspopup="true">
                             <span class="sr-only">Open user menu</span>
-                            <img class="h-8 w-8 rounded-full" src="./imagenes/YO.jpg" alt="">
+                            <img src="{{asset ('imagenes/YO.jpg')}}"  class="h-8 w-8 rounded-full" alt="usuarios">
                           </button>
                         </div>
           
